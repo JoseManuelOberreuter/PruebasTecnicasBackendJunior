@@ -1,0 +1,20 @@
+{
+  "name": "pruebastecnicasbackendjuniors",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene una colección de 100 ejercicios técnicos de backend, organizados desde los más básicos hasta los de mayor dificultad, pensados especialmente para quienes están practicando para entrevistas técnicas junior, bootcamps o simplemente desean mejorar sus habilidades como desarrollador backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "JMO",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseManuelOberreuter/PruebasTecnicasBackendJunior.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JoseManuelOberreuter/PruebasTecnicasBackendJunior/issues"
+  },
+  "homepage": "https://github.com/JoseManuelOberreuter/PruebasTecnicasBackendJunior#readme"
+}
